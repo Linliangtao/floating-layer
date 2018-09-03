@@ -1,0 +1,25 @@
+.usecard{
+    position: relative;
+    display: inline-block;
+  }
+  .usercard .popover{
+      font-size:30px;
+      background: #e6686a;
+      color: white;
+      position: absolute;
+      padding: 4px 16px;
+      position: relative;
+      margin-bottom: 10px;
+      display: none;
+    }
+   .usercard .popover .triangle{
+      position: absolute;
+      border:15px solid transparent;
+      width: 0;
+      border-left-color: #e6686a;
+      border-top-width: 0px;
+      position:absolute;
+      left: 4px;
+      top:100%;
+  
+    }
