@@ -3,7 +3,9 @@
     display: inline-block;
     text-align:center;
   }
-  .img{
+  .button{
+    width:150px;
+    height:150px;
     margin:20px 20px 0 40%;
   }
   .usercard .popover{
